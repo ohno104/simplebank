@@ -4,7 +4,7 @@ package util
 const (
 	USD = "USD"
 	EUR = "EUR"
-	CAD = "CAd"
+	CAD = "CAD"
 )
 
 // IsSupportedCurrency returns true if the currency is supported
